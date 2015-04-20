@@ -95,7 +95,7 @@ module.exports = class DiplomatView extends ContributeClassView
     'de-DE': ['Anon', 'Dirk', 'HiroP0', 'bahuma20', 'bkimminich', 'djsmith85', 'dkundel', 'domenukk', 'faabsen']        # Deutsch (Deutschland), German (Germany)
     'de-AT': ['djsmith85']        # Deutsch (Österreich), German (Austria)
     'de-CH': ['greyhusky']        # Deutsch (Schweiz), German (Switzerland)
-    'es-419': ['2xG', 'Federico Tomas', 'Jesús Ruppel', 'Mariano Luzza', 'Matthew Burt']       # español (América Latina), Spanish (Latin America)
+    'es-419': ['2xG', 'Federico Tomas', 'Jesús Ruppel', 'Mariano Luzza', 'Matthew Burt','Lici0']       # español (América Latina), Spanish (Latin America)
     'es-ES': ['3rr3s3v3n', 'Anon', 'DanielRodriguezRivero', 'Matthew Burt', 'OviiiOne', 'Pouyio', 'Vindurrin']        # español (ES), Spanish (Spain)
     'zh-HANS': ['1c7', 'Adam23', 'BonnieBBS', 'Cheng Zheng', 'Vic020', 'ZephyrSails', 'julycoolwind', 'onion7878', 'spacepope', 'yangxuan8282', 'yfdyh000']      # 简体中文, Chinese (Simplified)
     'zh-HANT': ['Adam23', 'gintau']      # 繁体中文, Chinese (Traditional)
@@ -104,7 +104,7 @@ module.exports = class DiplomatView extends ContributeClassView
     fr: ['Anon', 'Armaldio', 'ChrisLightman', 'Elfisen', 'Feugy', 'MartinDelille', 'Oaugereau', 'Xeonarno', 'dc55028', 'jaybi', 'pstweb', 'veritable', 'xavismeh']             # français, French
     ja: ['Coderaulic', 'g1itch', 'kengos', 'treby']             # 日本語, Japanese
     ar: ['5y', 'ahmed80dz']             # العربية, Arabic
-    'pt-BR': ['Bia41', 'Gutenberg Barros', 'Kieizroe', 'Matthew Burt', 'brunoporto', 'cassiocardoso', 'jklemm']        # português do Brasil, Portuguese (Brazil)
+    'pt-BR': ['Bia41', 'Gutenberg Barros', 'Kieizroe', 'Matthew Burt', 'brunoporto', 'cassiocardoso', 'jklemm','Lici0']        # português do Brasil, Portuguese (Brazil)
     'pt-PT': ['Imperadeiro98', 'Matthew Burt', 'ProgramadorLucas', 'ReiDuKuduro', 'batista', 'gutierri']        # Português (Portugal), Portuguese (Portugal)
     pl: ['Anon', 'Kacper Ciepielewski', 'TigroTigro', 'kvasnyk']             # język polski, Polish
     it: ['AlessioPaternoster', 'flauta']              # italiano, Italian
